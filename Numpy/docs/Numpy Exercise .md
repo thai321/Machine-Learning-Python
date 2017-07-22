@@ -1,5 +1,5 @@
 
-# NumPy Exercises 
+# NumPy Exercises
 
 
 #### Import NumPy as np
@@ -9,7 +9,7 @@
 import numpy as np
 ```
 
-#### Create an array of 10 zeros 
+#### Create an array of 10 zeros
 
 
 ```python
@@ -562,5 +562,3 @@ mat.sum(axis=1).reshape(5,1) # sum of all the rows and reshape to 5 x 1 array
            [ 65],
            [ 90],
            [115]])
-
-
